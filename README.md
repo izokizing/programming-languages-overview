@@ -9,9 +9,9 @@ A collaborative guide by ( )
 ## introduction
 This guide covers types of programming languages and its work
 ## PYTHON
-<!-- [FOR TEAM MEMBER 1 NAME]-->
+<!-- [FOR TEAM MEMBER 1 Izokizing]-->
 ## JAVASCRIPT
-<!--[FOR TEAM MEMBER 2 NAME]-->
+<!--[FOR TEAM MEMBER 2 Fredie6496]-->
 ## C++
 <!--[FOR TEAM MEMBER 3 NAME]-->
 ## RUST
