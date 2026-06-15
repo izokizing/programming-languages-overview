@@ -15,9 +15,9 @@ This guide covers types of programming languages and its work.
  - **Versatile**:it works across multiple operating system (windows,macOS,linux) and can be used for almost any technology project.
  - **Massive ecosystem**:it has thousands of free open-source libraries and frameworks that speed up development
  ### Major uses of python
- -*Data science & Machine learning*:it is the premier languages for artificial intelligence,data analysis,and visualization.
- -*Web development*:Backend system and web applicatrion are built using robust framework like Django and Flask.
- -*Software testing & Operation*:Developer use it for build control,testing software,and managing system infrastructure.
+ - *Data science & Machine learning*:it is the premier languages for artificial intelligence,data analysis,and visualization.
+ - *Web development*:Backend system and web applicatrion are built using robust framework like Django and Flask.
+ - *Software testing & Operation*:Developer use it for build control,testing software,and managing system infrastructure.
 ## JAVASCRIPT
 <!--[FOR TEAM MEMBER 2 Fredie6496]-->
 ## C++
