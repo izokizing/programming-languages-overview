@@ -25,10 +25,10 @@ This a high-perfomance programming language used to creat software, games, opera
 
 ### Key fuctions
 
-1.Software development
-2.Game development
-3.Operating system
-4.Web browsers 
+1. Software development
+2. Game development
+3. Operating system
+4. Web browsers 
 
 ### key feacture
 
@@ -47,11 +47,11 @@ This a high-perfomance programming language used to creat software, games, opera
 
 > Useful fuctions
 >
-1.*cout*     - output text
-2.*cin*      - receive used output
-3.*sqrt*     - calculate square roots
-4.*pow*()    - raise a number to a power
-5.*abs*()    - find absolute value
+1. *cout*     - output text
+2. *cin*      - receive used output
+3. *sqrt*     - calculate square roots
+4. *pow*()    - raise a number to a power
+5. *abs*()    - find absolute value
 
 
 
