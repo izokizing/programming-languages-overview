@@ -13,6 +13,6 @@ This guide covers types of programming languages and its work
 ## JAVASCRIPT
 <!--[FOR TEAM MEMBER 2 Fredie6496]-->
 ## C++
-<!--[FOR TEAM MEMBER 3 NAME]-->
+<!--[FOR TEAM MEMBER 3 willanwaish]-->
 ## RUST
 <!---[FOR TEAM MEMBER 4 NAME]-->
