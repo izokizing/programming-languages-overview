@@ -5,7 +5,6 @@ A collaborative guide by ([izokizing,fredie6496,willanwaish]
 - [Python]
 - [JavaScript]
 - [c++]
-- [Rust]
 ## introduction.
 This guide covers types of programming languages and its work.
 ## PYTHON.
