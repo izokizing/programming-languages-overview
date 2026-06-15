@@ -23,12 +23,15 @@ This guide covers types of programming languages and its work.
 ## C++
 This a high-perfomance programming language used to creat software, games, operating system, web browsers, embedded system and high performance application 
 
-###Key fuctions 
+###Key fuctions
+
 1.Software development
 2.Game development
 3.Operating system
 4.Web browsers 
-###key feacture 
+
+###key feacture
+
 -Objective development
 -Memory management 
 -Perfomance and Efficiency 
@@ -36,12 +39,14 @@ This a high-perfomance programming language used to creat software, games, opera
 -Generic programming 
 
 ###Merits of c++
+
 -high perfomance
 -Extensive hardware control
 -Objective-oriented design
 -Scalability for large projects  
 
 >Useful fuctions
+>
 1.*cout*     - output text
 2.*cin*      - receive used output
 3.*sqrt*     - calculate square roots
