@@ -31,18 +31,18 @@ This a high-perfomance programming language used to creat software, games, opera
 
 ### key feacture
 
--Objective development
--Memory management 
--Perfomance and Efficiency 
--Data structures and algorithms 
--Generic programming 
+- Objective development
+- Memory management 
+- Perfomance and Efficiency 
+- Data structures and algorithms 
+- Generic programming 
 
 ### Merits of c++
 
--high perfomance
--Extensive hardware control
--Objective-oriented design
--Scalability for large projects  
+- high perfomance
+- Extensive hardware control
+- Objective-oriented design
+- Scalability for large projects  
 
 > Useful fuctions
 >
