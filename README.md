@@ -43,6 +43,35 @@ function greet(name) {
 console.log(greet("World"));
 ```
 ## C++
-<!--[FOR TEAM MEMBER 3 willanwaish]--> 
-this is a programming language used to creat 
+This a high-perfomance programming language used to creat software, games, operating system, web browsers, embedded system and high performance application 
+
+### Key fuctions
+
+1. Software development
+2. Game development
+3. Operating system
+4. Web browsers 
+
+### key feacture
+
+- Objective development
+- Memory management 
+- Perfomance and Efficiency 
+- Data structures and algorithms 
+- Generic programming 
+
+### Merits of c++
+
+- high perfomance
+- Extensive hardware control
+- Objective-oriented design
+- Scalability for large projects  
+
+> Useful fuctions
+>
+1. *cout*     - output text
+2. *cin*      - receive used output
+3. *sqrt*     - calculate square roots
+4. *pow*()    - raise a number to a power
+5. *abs*()    - find absolute value
 
