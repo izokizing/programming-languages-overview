@@ -5,7 +5,6 @@ A collaborative guide by ([izokizing,fredie6496,willanwaish]
 - [Python]
 - [JavaScript]
 - [c++]
-- [Rust]
 ## introduction.
 This guide covers types of programming languages and its work.
 ## PYTHON.
@@ -74,4 +73,3 @@ This a high-perfomance programming language used to creat software, games, opera
 3. *sqrt*     - calculate square roots
 4. *pow*()    - raise a number to a power
 5. *abs*()    - find absolute value
-
