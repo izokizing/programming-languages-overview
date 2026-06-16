@@ -73,3 +73,10 @@ This a high-perfomance programming language used to creat software, games, opera
 3. *sqrt*     - calculate square roots
 4. *pow*()    - raise a number to a power
 5. *abs*()    - find absolute value
+### Rust
+Rust is a multi-paradigm,open-source system programming language designed specifically foy high perfomance,type safety and memory security without relying on a garbage collector
+### key features of rust
+**memory safety without garbage collection**:Rust uses an innovative ownership and borrowing system.
+**blazingly fast performance**:because it compiles directly down to native machine code using LLVM and lacks a runtime virtual machine.
+**fearless concurrency**:managing multiple threads simultaneously is notoriously difficult
+**Excellent developer toooling**:this language ships with its own robust ecosystem tool named cargo,which manages dependancies (known as crates),builds your projects and runs unit test seamlessly
